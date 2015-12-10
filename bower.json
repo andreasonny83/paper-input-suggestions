@@ -1,0 +1,30 @@
+{
+  "name": "paper-input-suggestions",
+  "version": "0.1.0",
+  "authors": [
+    "Andrea Sonny <andreasonny83@gmail.com>"
+  ],
+  "description": "paper-input-suggestions is an element providing typeahead feature for input.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed",
+    "autocomplete"
+  ],
+  "main": "paper-input-suggestions.html",
+  "license": "hhttps://github.com/andreasonny83/paper-input-suggestions/blob/master/LICENSE",
+  "homepage": "https://github.com/andreasonny83/paper-input-suggestions/",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-input": "PolymerElements/paper-input#~1.0.5",
+    "paper-menu": "PolymerElements/paper-menu#~1.0.0",
+    "paper-item": "PolymerElements/paper-item#~1.0.1"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
+    "web-component-tester": "*",
+    "test-fixture": "PolymerElements/test-fixture#^1.0.0"
+  }
+}
